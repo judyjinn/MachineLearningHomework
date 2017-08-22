@@ -1,4 +1,4 @@
-# MachineLearningHomework
+# machine_learning_homework
 
 When auditing Machine Learning in 2015 I also did as many of the homework sets as I could. This repository contains some of the homework assignments. I also over-commented to ensure I remembered what I did later... now I have better commenting practices.
 
