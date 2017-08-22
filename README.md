@@ -6,4 +6,4 @@ When auditing Machine Learning in 2015 I also did as many of the homework sets a
 
 `Homework3.py` Uses a gaussian classifier to classify the same MNIST handwritten digit set
 
-`Homework4.py` Uses a linear regression to classify song types by the year they were produced. A logistic regression is then used on an email set to classify spam emails from non spam emails
+`Homework4.py` Uses a linear regression to [classify songs](https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD) by the year they were produced. A logistic regression is then used on an email set `spam.mat` to classify spam emails from non spam emails
